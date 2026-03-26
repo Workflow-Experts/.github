@@ -4,14 +4,14 @@ Automation education and open-source tools for GoHighLevel and n8n.
 
 We build free templates, integrations, and workflows so business owners can stop doing the same repetitive work every day. Everything here is stuff we actually use.
 
-## What You'll Find Here
+## What you'll find here
 
 - **GHL Snapshots & Templates** - pre-built automations you can import directly into GoHighLevel
 - **n8n Workflows** - ready-to-use workflow files for common business automations
 - **Integration Tools** - utilities for connecting apps, handling APIs, and extending platforms
 - **Learning Resources** - code examples and reference material from our tutorials
 
-## Learn With Us
+## Learn with us
 
 - 🎥 [YouTube](https://www.youtube.com/@WorkflowExperts) - full tutorials and step-by-step guides
 - 🌐 [Website](https://workflow-experts.com) - free starter kit, resources, and the automation audit service
