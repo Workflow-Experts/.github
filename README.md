@@ -13,13 +13,13 @@ We build free templates, integrations, and workflows so business owners can stop
 
 ## Learn with us
 
-- 🎥 [YouTube](https://www.youtube.com/@WorkflowExperts) - full tutorials and step-by-step guides
-- 🌐 [Website](https://workflow-experts.com) - free starter kit, resources, and the automation audit service
+- 🎥 [YouTube](https://www.youtube.com/@WorkflowExperts?sub_confirmation=1) - full tutorials and step-by-step guides
+- 🌐 [Website](https://workflow-experts.com?utm_source=github&utm_medium=profile-readme&utm_campaign=developer&utm_content=main-site) - free starter kit, resources, and the automation audit service
 - 👥 [Facebook Community](https://www.facebook.com/groups/workflowexperts) - ask questions, share wins, get unstuck
 - 💼 [LinkedIn](https://www.linkedin.com/in/mike-kirby-dev/) - connect with Mike
 
 ## About
 
-Built by [Mike Kirby](https://mike-kirby.com), automation specialist and GHL Certified Developer Partner. 5+ years building automation solutions for businesses of all sizes.
+Built by [Mike Kirby](https://mike-kirby.com?utm_source=github&utm_medium=profile-readme&utm_campaign=developer&utm_content=main-site), automation specialist and GHL Certified Developer Partner. 5+ years building automation solutions for businesses of all sizes.
 
-Got a question or want to contribute? [Get in touch](https://workflow-experts.com/#contact).
+Got a question or want to contribute? [Get in touch](https://workflow-experts.com/#contact?utm_source=github&utm_medium=profile-readme&utm_campaign=developer&utm_content=contact-us).
